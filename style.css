@@ -7,3 +7,16 @@ body{
 	margin: 0 auto;
 	font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
 }
+header,section,article,aside,footer{
+	display: block;
+} 
+aside
+{
+	float: left;
+	width: 470px;
+	min-height: 480px;
+	background:
+	url(logo.png)
+	center top norepeat;
+	margin: 0 0 20px 0;
+}
