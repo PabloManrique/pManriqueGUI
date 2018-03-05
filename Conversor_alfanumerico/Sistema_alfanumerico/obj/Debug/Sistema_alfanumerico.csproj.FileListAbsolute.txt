@@ -1,6 +1,0 @@
-C:\Users\Pablo\source\repos\Sistema_alfanumerico\Sistema_alfanumerico\bin\Debug\Sistema_alfanumerico.exe.config
-C:\Users\Pablo\source\repos\Sistema_alfanumerico\Sistema_alfanumerico\bin\Debug\Sistema_alfanumerico.exe
-C:\Users\Pablo\source\repos\Sistema_alfanumerico\Sistema_alfanumerico\bin\Debug\Sistema_alfanumerico.pdb
-C:\Users\Pablo\source\repos\Sistema_alfanumerico\Sistema_alfanumerico\obj\Debug\Sistema_alfanumerico.csproj.CoreCompileInputs.cache
-C:\Users\Pablo\source\repos\Sistema_alfanumerico\Sistema_alfanumerico\obj\Debug\Sistema_alfanumerico.exe
-C:\Users\Pablo\source\repos\Sistema_alfanumerico\Sistema_alfanumerico\obj\Debug\Sistema_alfanumerico.pdb
